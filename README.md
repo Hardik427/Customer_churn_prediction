@@ -164,17 +164,10 @@ Churn Probability: 0.12
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com
-
+- **\Hardik Gondwal**  
+- GitHub: [@Hardik427](https://github.com/Hardik427)  
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📦 To-Do / Improvements
 
