@@ -3,7 +3,7 @@ import tensorflow
 from tensorflow.keras.models import load_model
 import pickle
 import numpy as np
-import pandas as pd
+import pandas as pdc
 
 model = load_model('model.h5')
 
