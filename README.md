@@ -150,7 +150,8 @@ Churn Probability: 0.12
 ## 📸 Optional Screenshot
 
 *(Insert screenshot of app UI here if available)*  
-![Screenshot](path/to/screenshot.png)
+![Screenshot](/DeepLearning/Customer_Churn_Prediction/image1.png)
+![Screenshot](/DeepLearning/Customer_Churn_Prediction/image2.png)
 
 ---
 
